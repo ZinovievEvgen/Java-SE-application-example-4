@@ -8,4 +8,4 @@ The code may be not optimal
 
 In the task was touched on the topic of classes (OOP)
 
-
+Also in the task interface Comparator is implemented to perform sorting of objects in List
